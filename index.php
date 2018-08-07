@@ -19,5 +19,5 @@
       <p><?php the_content(); ?></p>
       <hr/>
     <?php } ?>
-  </body>
+  </body> 
 </html>
